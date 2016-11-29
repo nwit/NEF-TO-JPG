@@ -6,5 +6,11 @@ How to use it:
 1. Install imagemagick
       sudo apt-get install imagemagick
       
-2.Install gengetopt if you haven already installed it 
+2. Install gengetopt if you haven already installed it 
       sudo apt.get install gengetopt
+      
+3. Run the makefile on the downloaded folder by tipyng
+      make
+      
+4. Just run the program and that's it
+      ./prog <min number> <max. number> <path>(with a / at the end)
