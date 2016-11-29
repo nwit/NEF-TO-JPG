@@ -5,5 +5,6 @@ How to use it:
 
 1. Install imagemagick
       sudo apt-get install imagemagick
+      
 2.Install gengetopt if you haven already installed it 
       sudo apt.get install gengetopt
