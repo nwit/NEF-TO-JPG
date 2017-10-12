@@ -9,9 +9,9 @@ $ sudo apt-get install imagemagick
 
 ------------------------------
       
-2.Install gengetopt if you haven already installed it 
+2.Install gengetopt if you haven't already installed it 
 
-$ sudo apt.get install gengetopt
+$ sudo apt-get install gengetopt
 
 ------------------------------
       
